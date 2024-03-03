@@ -43,7 +43,7 @@ const DrawerNavigation = () => {
                   marginBottom: 6,
                 }}
               >
-                Isabella Joanna
+                Emirhan Yaman
               </Text>
               <Text
                 style={{
@@ -51,7 +51,7 @@ const DrawerNavigation = () => {
                   color: COLORS.black,
                 }}
               >
-                Product Designer
+                /
               </Text>
             </View>
             <DrawerItemList {...props} />
