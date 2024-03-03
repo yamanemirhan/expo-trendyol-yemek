@@ -1,4 +1,4 @@
-<img src="https://github.com/yamanemirhan/expo-trendyol-yemek/assets/90368997/751ebe73-af0d-4327-9410-da82771fd0c7" width="100" height="100">
+<img src="https://github.com/yamanemirhan/expo-trendyol-yemek/assets/90368997/751ebe73-af0d-4327-9410-da82771fd0c7" width="460.5" height="1024">
 
 ![kesfet](https://github.com/yamanemirhan/expo-trendyol-yemek/assets/90368997/8f191853-ec5a-4255-91df-38c0e8acea35)
 
